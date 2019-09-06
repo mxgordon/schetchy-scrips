@@ -1,0 +1,12 @@
+What have we done so far? 
+
+Are the admins who they should be?
+Are the passwords complex enough?
+What about unkown users?
+Hows the firewall?
+Do we need to change remote connection settings? 
+Any programs or music that shouldn't be here?
+Is firefox default?
+Is IE an option? 
+Are the programs properly up to date? 
+...
